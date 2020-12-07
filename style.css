@@ -1,0 +1,28 @@
+
+#HowTo{
+    margin-top: 50px;
+}
+
+
+#HowTo img{
+    display: block;
+    margin:  10px auto;
+    width: 96%;
+    box-shadow: 0px 0px 20px 1px black;
+    clip-path: polygon(0 20%, 100% 20%, 100% 100%, 0 100%);
+}
+
+#HowTo h2{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#HowTo p{
+    display: block;
+    margin-left: 5%;
+}
+
+hr{
+    height: 5px;
+    background: black;
+}
